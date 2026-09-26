@@ -2,7 +2,7 @@
 
 Project Code: WST21-PM-2026-SF
 
-Student Name: DAYANAN, KYLEI RICH C.
+Student Name: DAYANAN, KYLE RICH C.
 
 Course & Year: BSIT, 2ND YEAR
 
